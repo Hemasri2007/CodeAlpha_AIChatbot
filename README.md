@@ -102,8 +102,8 @@ Bot: Goodbye!
 - Add voice input and speech output.
 - Integrate a graphical user interface (GUI).
 - Connect with APIs for real-time information.
-- Store conversation history.
-- 
+- Store conversation history. 
+
 ## Conclusion :
 
 The AI Chatbot project demonstrates the fundamentals of Java programming by combining user input handling, string processing, loops, and conditional logic. It provides a simple yet effective example of how chatbots work and serves as a foundation for building more advanced AI-powered conversational systems.
