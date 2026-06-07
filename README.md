@@ -20,7 +20,7 @@ The AI Chatbot is a simple Java-based console application that simulates a basic
 
   - Programming Language: Java
   - IDE: VS Code
-  - 
+    
 ## Concepts Used :
 
    - Scanner Class
@@ -28,7 +28,7 @@ The AI Chatbot is a simple Java-based console application that simulates a basic
    - Conditional Statements (if-else)
    - String Handling
    - User Input Processing
- Platform: Console-Based Application
+      Platform: Console-Based Application
 
 ## Features :
 
@@ -60,7 +60,7 @@ The AI Chatbot is a simple Java-based console application that simulates a basic
     -Thank you          ||    -Welcome response
     -Bye                ||    -Ends the chat
 
-  ##  Output Screenshot :
+
 
 <p align="center">
   <img src="chatbot_output.png" width="800">
@@ -70,7 +70,6 @@ The AI Chatbot is a simple Java-based console application that simulates a basic
 
 <pre>
 Welcome to AI Chatbot!
-
 Type 'bye' to end the chat.
 
 You: hello
