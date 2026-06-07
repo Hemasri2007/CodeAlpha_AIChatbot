@@ -28,7 +28,7 @@ The AI Chatbot is a simple Java-based console application that simulates a basic
    - Conditional Statements (if-else)
    - String Handling
    - User Input Processing
-      Platform: Console-Based Application
+- Platform: Console-Based Application
 
 ## Features :
 
@@ -51,9 +51,9 @@ The AI Chatbot is a simple Java-based console application that simulates a basic
 - The chatbot displays a goodbye message and terminates.
 ## Keywords Supported :
 
-    --User Input--   ||  --Bot Response--
-    -Hello / Hi      ||  -Greeting message
-    -How are you     ||  -Status response
+    --User Input--      ||  --Bot Response--
+    -Hello / Hi         ||  -Greeting message
+    -How are you        ||  -Status response
     -What is your name  ||  -Chatbot introduction
     -Tell me about Java ||  -Information about Java
     -Internship         ||   -Internship information
